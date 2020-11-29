@@ -1,0 +1,9 @@
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\bin\Debug\netcoreapp3.1\Crawler.Core.deps.json
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\bin\Debug\netcoreapp3.1\Crawler.Core.dll
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\bin\Debug\netcoreapp3.1\Crawler.Core.pdb
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.csprojAssemblyReference.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.AssemblyInfoInputs.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.AssemblyInfo.cs
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.csproj.CoreCompileInputs.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.dll
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Core\obj\Debug\netcoreapp3.1\Crawler.Core.pdb

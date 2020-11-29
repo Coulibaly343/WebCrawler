@@ -1,0 +1,12 @@
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\bin\Debug\netcoreapp3.1\Crawler.Persistance.deps.json
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\bin\Debug\netcoreapp3.1\Crawler.Persistance.dll
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\bin\Debug\netcoreapp3.1\Crawler.Persistance.pdb
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\bin\Debug\netcoreapp3.1\Crawler.Core.dll
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\bin\Debug\netcoreapp3.1\Crawler.Core.pdb
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.csprojAssemblyReference.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.AssemblyInfoInputs.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.AssemblyInfo.cs
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.csproj.CopyComplete
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.dll
+C:\Users\amado\Desktop\CrawlerApp\Crawler\Crawler.Persistance\obj\Debug\netcoreapp3.1\Crawler.Persistance.pdb
